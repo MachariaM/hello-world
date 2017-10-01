@@ -2,4 +2,4 @@
 
 Hi people!
 
-Programming backgrounds
+Programming background
