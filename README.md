@@ -12,7 +12,7 @@ Take time to look around first and introduce yourself
 
 Start with your **_name_** and **_where_** you're from
 
-# Names
+### Names
 - George Washington
 - John Adams
 - Thomas Jefferson
