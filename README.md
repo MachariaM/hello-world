@@ -2,7 +2,7 @@
 
 ## Hi people!
 
-# Welcome to my webapage.
+# Welcome to my webpage.
 
 On this page, you will learn how to create, use and collaborate with others.
 
